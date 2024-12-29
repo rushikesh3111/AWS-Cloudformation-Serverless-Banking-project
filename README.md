@@ -97,5 +97,5 @@ In the *AWS Management Console* you should be able to *verify* the following hav
    * Test using the URL provided in the CloudFormation Outputs under TestURL in a browser, you should see the following JSON output:
 
 ```json
-{"data": {"a": 1, "c": 3, "b": 2}}
+{"name":"John Doe", "accountNumber":56789, "balanceStatus":22000}
 ```
